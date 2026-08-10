@@ -1,0 +1,201 @@
+TUFReplay/Infrastructure/NativeInput/NativeInputKeyCodeMapper.cs
+  s_6dd6db7b2dc311::t_6dd8bf5ce98129 168-169,184-187
+  s_c3f167b444074d::t_d7c5c46c8d4cfd 144,225,244
+  s_6dd6db7b2dc311::t_7b69871739a2fa 290,299-308,316,320-321,324-329,332,335-337,352-358,360-362
+  s_6dd6db7b2dc311::t_218f7e9b766c3c 288-289,291-298,309,317-319,322-323,330-331,333-334,338-351,359,363-364
+  s_6dd6db7b2dc311::t_1a4ae45607e1c9 153-154,161-163,170,172-177,181-183,188,283-287,310-315
+  s_6dd6db7b2dc311::t_8e51d058af52c2 189
+TUFReplay/UpdateSettings.cs
+  s_c3f167b444074d::t_d7c5c46c8d4cfd 17
+web/src/activity/components/render-run-dialog.component.tsx
+  s_c3f167b444074d::t_e72439d87a6319 377,383
+  s_c3f167b444074d::t_67e97a5f50db97 111
+  s_c3f167b444074d::t_fc9fe07b3060e9 6-7,88-90,119-121,127,130-131,140-149,151-152,162-164,166
+  s_c3f167b444074d::t_13b0c23dfa6bb6 27,54-58,60,75-79,81,125,128-129,153-158,161,165,167-169,171-182,347,353,378-382,384-426
+  s_c3f167b444074d::t_78ac4b6021fcef 59,80,91,122,150,357-373,505-540
+  s_c3f167b444074d::t_68c38f2962a770 12,93
+  s_c3f167b444074d::t_5019afc407fce6 10,13-23,25-26,28-46,49-51,61-67,70-72,82-86,94-95,98-110,112-116,123-124,137-139,159-160,170,183,194-199,201-202,208-216,275-279,286-325,328-329,331,333-336,338-339,430-445,451-470,543-545,548,550,552,555-557,559-568
+  s_c3f167b444074d::t_1227d78c23d309 1-5,8-9,24,47-48,52-53,68-69,73-74,87,92,96-97,117-118,126,132-136,184-193
+  s_c3f167b444074d::t_d181281171a77e 234-238
+  s_c3f167b444074d::t_33942ce18a4cd7 200,203-207,217-233,239-274,280-285,446-450
+  s_c3f167b444074d::t_5f101f098358fc 326-327,330,332,337
+  s_c3f167b444074d::t_a2a34d7e3f660e 340-346,348-352,354-356,374-376,427-429,471-504,541-542
+  s_c3f167b444074d::t_292d121fa8667a 11,546-547,549,551,553-554,558
+TUFReplay/Features/Microphone/MicrophoneRecordingFeature.cs
+  s_c3f167b444074d::t_d7c5c46c8d4cfd 239-241
+web/src/i18n/locales/ko/replay.json
+  s_c3f167b444074d::t_bfa48cb0870985 42-62
+  s_c3f167b444074d::t_69ffa4b0543f7f 63-65
+  s_c3f167b444074d::t_707ea95030e015 76-79
+  s_c3f167b444074d::t_78ac4b6021fcef 80-81
+  s_c3f167b444074d::t_a2a34d7e3f660e 66-71,73-74
+  s_c3f167b444074d::t_e72439d87a6319 72,75
+TUFReplay/Infrastructure/Database/Schema/SkyHookInputKeyMigration.cs
+  s_c3f167b444074d::t_d7c5c46c8d4cfd 115
+web/src/activity/components/run-actions-menu.component.tsx
+  s_6dd6db7b2dc311::t_b3581d69336af9 40,49,188-203
+  s_c3f167b444074d::t_46c615752f399a 9,41,50
+TUFReplay/Features/Calibration/MicrophoneCalibrationPreview.cs
+  s_c3f167b444074d::t_d7c5c46c8d4cfd 124
+TUFReplay/Features/Calibration/MicrophoneCalibrationLevel.cs
+  s_c3f167b444074d::t_d7c5c46c8d4cfd 21
+web/src/activity/activity-dashboard.component.tsx
+  s_6dd6db7b2dc311::t_3fb0248d41d2a3 230
+  s_c3f167b444074d::t_69ffa4b0543f7f 256-257,261-262
+  s_c3f167b444074d::t_142792434eba72 263-267,269
+  s_c3f167b444074d::t_f110d3eb1f4542 268
+  s_c3f167b444074d::t_02c931932fed10 10,15,24,34,168,231,249,251-255,258-260
+  s_6dd6db7b2dc311::t_e3d65071294992 250
+  s_c3f167b444074d::t_7494bd762a50f8 270
+TUFReplay/Infrastructure/Database/Repositories/MicrophoneRecordingRepository.cs
+  s_c3f167b444074d::t_d7c5c46c8d4cfd 9,108,178-186,312
+README.md
+  s_c3f167b444074d::t_f3da2f7d1072ac 73-74,81
+  s_6dd6db7b2dc311::t_470e4065ae9d89 56,75-80
+TUFReplay/Application/Recording/RecordInputTracker.cs
+  s_c3f167b444074d::t_d7c5c46c8d4cfd 46,282,322
+web/src/activity/lib/render-preview-player.ts
+  s_c3f167b444074d::t_c3a2dbe0ae9fd2 53
+  s_c3f167b444074d::t_c96b8791c18a4d 21-23,33-35,87,90,101-138,161
+  s_c3f167b444074d::t_707ea95030e015 26-30
+  s_c3f167b444074d::t_7d91a946d2801f 50-51
+  s_c3f167b444074d::t_d9d737628d1f50 1-20,24-25,31-32,36-49,52,54-86,88-89,91-100,139-160,162-180
+TUFReplay/Application/Microphone/Pcm16WaveAnalyzer.cs
+  s_6dd6db7b2dc311::t_cf7c1f0a8bbd1b 8,10,15,21,23,44,53,61,69,80
+web/src/activity/hooks/use-render-control.hook.ts
+  s_c3f167b444074d::t_e49e7f47f684c2 1-11,13-149,256-276,280-284,292-294,299-303
+  s_c3f167b444074d::t_707ea95030e015 157-159,198-199
+  s_c3f167b444074d::t_d44bbccaa2248e 153,165-167,170-171,181,183-185,187-197,202,204,241,248,251,295-298
+  s_c3f167b444074d::t_6f07ad51dea72f 12,150-152,154,160-161,169,172-180,186,201,203,206-207,210,215,224-225,227,229-233,240,243,285-289,291
+  s_6dd6db7b2dc311::t_09d5ef95def03c 277-279
+  s_c3f167b444074d::t_c3a2dbe0ae9fd2 155-156,168,205,213,216-223,226,228,242,254
+  s_c3f167b444074d::t_5fdc7f16a29b38 235-239,290
+  s_c3f167b444074d::t_64017e1b118a6a 162-164,182,200,208-209,211-212,214,234,244-247,249-250,252-253,255
+TUFReplay/Infrastructure/NativeInput/Capture/WindowsNativeInputStateReader.cs
+  s_c3f167b444074d::t_d7c5c46c8d4cfd 2
+TUFReplay/Features/Replay/HitContextPlayback/ReplayHitContextPlayer.cs
+  s_c3f167b444074d::t_d7c5c46c8d4cfd 238
+web/src/activity/activity.model.ts
+  s_c3f167b444074d::t_0bc5ccca36f32b 141-185,189-201,203-211,216-217
+  s_c3f167b444074d::t_61d508ed2e8f46 215
+  s_c3f167b444074d::t_4aad3fbadb0d65 186-188,212-214
+  s_6dd6db7b2dc311::t_2505a4147a2f01 202
+TUFReplay/Application/Microphone/Pcm16PrefetchBuffer.cs
+  s_c3f167b444074d::t_d7c5c46c8d4cfd 44
+TUFReplay/Application/Microphone/MicrophoneDeviceService.cs
+  s_c3f167b444074d::t_d7c5c46c8d4cfd 127-130
+TUFReplay/Application/Replay/ReplaySessionService.cs
+  s_6dd6db7b2dc311::t_fd79eb14afd8e5 517-518,536-544
+  s_6dd6db7b2dc311::t_e2bdc33e33719b 508,519-535,545-550,552-554,565,567-568
+  s_6dd6db7b2dc311::t_1a4ae45607e1c9 555-564,566,570-581
+  s_6dd6db7b2dc311::t_7b69871739a2fa 551
+  s_c3f167b444074d::t_3b5e12344ed82a 385-403,569
+  s_6dd6db7b2dc311::t_5c8da970f6bb65 582
+TUFReplay/Features/Calibration/MicrophoneCalibrationFeature.cs
+  s_c3f167b444074d::t_d7c5c46c8d4cfd 228
+TUFReplay/Features/Ipc/TUFReplayIpcFeature.cs
+  s_c3f167b444074d::t_cc7f199cfe9462 74
+  s_c3f167b444074d::t_0002c7162167c7 60-66,70-73,75-80
+  s_6dd6db7b2dc311::t_65d57d6d5c0edf 81-82
+web/src/activity/data/activity.gateway.ts
+  s_6dd6db7b2dc311::t_03fd29444ebac1 24,129-133,139-141,199,201-203,205-207
+  s_c3f167b444074d::t_156c4189e1186b 15-17,89-92,200
+  s_c3f167b444074d::t_cbf7cadd2b3b80 95-101
+  s_c3f167b444074d::t_4aad3fbadb0d65 93-94,204
+TUFReplay/Features/Replay/Utf8Csv.cs
+  s_c3f167b444074d::t_d7c5c46c8d4cfd 32
+TUFReplay/Application/Activity/ActivityQueryService.cs
+  s_c3f167b444074d::t_d7c5c46c8d4cfd 99-105,130-136
+TUFReplay/Infrastructure/Microphone/MacOsMicrophoneCaptureBackend.cs
+  s_c3f167b444074d::t_d7c5c46c8d4cfd 41,564
+TUFReplay/Application/Replay/ReplayClock.cs
+  s_c3f167b444074d::t_cff021253c8ece 5-13,15-17,32,49
+  s_6dd6db7b2dc311::t_f8a58a64d3cb1f 14
+dotnet-tools.json
+  s_c3f167b444074d::t_492622b8464b9e 11-17
+TUFReplay/Features/Replay/NativeInputPlayback/ReplayInputScheduler.cs
+  s_6dd6db7b2dc311::t_5ea9cdf4448ca7 37-53
+TUFReplay/Features/Ipc/IpcParams.cs
+  s_c3f167b444074d::t_d20d73e767f920 80-103
+TUFReplay/Infrastructure/NativeInput/NativeInputUmmWindowInterlock.cs
+  s_c3f167b444074d::t_d7c5c46c8d4cfd 13,62
+TUFReplay/Application/Replay/ReplayPlaybackCoordinator.cs
+  s_c3f167b444074d::t_adc73df95855da 366,368-374
+  s_c3f167b444074d::t_769abcea18b8c1 1170-1189
+  s_c3f167b444074d::t_aa56a95405e84d 182,184-188
+  s_c3f167b444074d::t_7c2406bba7cc8f 744,750,779
+  s_6dd6db7b2dc311::t_5e772a11243890 90-95
+  s_c3f167b444074d::t_000a2de222d31c 879-883,885-890
+  s_c3f167b444074d::t_62f01a90e9205d 67-75
+  s_c3f167b444074d::t_2d103b357d842e 859-862,864-869
+  s_c3f167b444074d::t_06e3755fbde154 201
+  s_c3f167b444074d::t_414cce0ec60e8d 108
+  s_c3f167b444074d::t_e21e4ca4c6dd78 728-730
+  s_6dd6db7b2dc311::t_f8a58a64d3cb1f 183,346,367,677,752-753,777,863,884
+  s_c3f167b444074d::t_896785b50fb4f3 36,207-208,393,462,745-749,751,754-776,778,780-784
+  s_c3f167b444074d::t_3f4c960ff28b64 345,347-352
+  s_c3f167b444074d::t_330dbe5f981fc9 673,675-676,678,681,685,687-706
+  s_c3f167b444074d::t_90b25ff51db413 610-620
+  s_c3f167b444074d::t_3da23520c894f4 1116-1118
+TUFReplay/Infrastructure/Unity/UnityMicrophoneCaptureBackend.cs
+  s_c3f167b444074d::t_d7c5c46c8d4cfd 116
+web/src/activity/components/activity-workspace.component.tsx
+  s_c3f167b444074d::t_3d4898e53f0e75 91,108,367,397,413,457
+  s_c3f167b444074d::t_46c615752f399a 68
+  s_6dd6db7b2dc311::t_b3581d69336af9 67,90,366,396,412,456
+TUFReplay/Features/Replay/NativeInputPlayback/ReplayNativeInputPlayer.cs
+  s_6dd6db7b2dc311::t_5ea9cdf4448ca7 61-66
+TUFReplay/Application/Activity/TufLevelIdResolverCache.cs
+  s_c3f167b444074d::t_d7c5c46c8d4cfd 54
+TUFReplay/Infrastructure/NativeInput/Playback/WindowsNativeInputEmitter.cs
+  s_c3f167b444074d::t_d7c5c46c8d4cfd 87
+web/src/i18n/locales/en/replay.json
+  s_c3f167b444074d::t_707ea95030e015 76-79
+  s_c3f167b444074d::t_78ac4b6021fcef 80-81
+  s_c3f167b444074d::t_69ffa4b0543f7f 63-65
+  s_c3f167b444074d::t_a2a34d7e3f660e 66-71,73-74
+  s_c3f167b444074d::t_e72439d87a6319 72,75
+  s_c3f167b444074d::t_bfa48cb0870985 42-62
+TUFReplay/Infrastructure/Adofai/AdofaiLevelMetadataReader.cs
+  s_c3f167b444074d::t_d7c5c46c8d4cfd 45
+TUFReplay/Infrastructure/Database/MicrophoneDatabase.cs
+  s_c3f167b444074d::t_d7c5c46c8d4cfd 26
+web/src/activity/mock/activity.mock.ts
+  s_c3f167b444074d::t_4aad3fbadb0d65 258-260,304-305
+  s_c3f167b444074d::t_cbf7cadd2b3b80 306-312
+  s_c3f167b444074d::t_21de1110332ff5 8,81-95
+  s_c3f167b444074d::t_3eef68daf941db 232-257,261-303,313-316
+  s_6dd6db7b2dc311::t_93c56cfc916348 96
+TUFReplay/Application/Replay/RenderCaptureBridge.cs
+  s_6dd6db7b2dc311::t_218f7e9b766c3c 37-44
+  s_6dd6db7b2dc311::t_1bef0c39c47d83 1-36,45-74
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "689542dbe6919aac31385f776f3b8427c7be3fe7",
+  "prompts": {},
+  "humans": {
+    "h_6eeb8441a8a159": {
+      "author": "koren <131921956+kkorenn@users.noreply.github.com>"
+    }
+  },
+  "sessions": {
+    "s_6dd6db7b2dc311": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ab83e955-d79f-43c1-841e-10adf76dd9f4",
+        "model": "claude-fable-5"
+      },
+      "human_author": "koren <131921956+kkorenn@users.noreply.github.com>"
+    },
+    "s_c3f167b444074d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bf5b7298-1f47-4434-b2bd-650e9f3b2a48",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "koren <131921956+kkorenn@users.noreply.github.com>"
+    }
+  }
+}
